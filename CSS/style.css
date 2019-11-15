@@ -1,0 +1,235 @@
+/* Starting of body  */
+.body{
+  margin: 0px;
+  text-align: center;
+}
+.div0 {
+  background-color: #9be3de;
+  padding-top: 70px;
+}
+.MyImg-1{
+  position: fixed;
+  top:4px;
+  left: 30px;
+  width: 60px;
+  height: 60px;
+  border-radius: 40px;
+}
+.about{
+  position: fixed;
+  border: solid;
+  border-color: #3fc5f0;
+  background-color: #3fc5f0;
+  color: #003f5c;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  right: 350px;
+  top: 5px;
+  font-family: 'Lobster', cursive;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 10px;
+}
+.contact-1{
+  border: solid;
+  border-color: #3fc5f0;
+  background-color: #3fc5f0;
+  color: #003f5c;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  position: fixed;
+  right: 180px;
+  top: 5px;
+  font-family: 'Lobster', cursive;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 10px;
+}
+.Resume{
+  border: solid;
+  border-color: #3fc5f0;
+  background-color: #3fc5f0;
+  color: #003f5c;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  position: fixed;
+  right: 25px;
+  top: 5px;
+  font-family: 'Lobster', cursive;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 10px;
+}
+a.about:hover{
+  color: white;
+}
+a.contact-1:hover{
+  color: white;
+}
+a.Resume:hover{
+  color: white;
+}
+
+/* Ending of body  */
+/* Starting of div1  */
+.div1{
+  background-color: #EAF6F6;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0px auto ;
+  font-size: 5.625rem;
+  color: #66BFBF;
+;
+}
+.programmer{
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 0px;
+  padding-top: 20px;
+  color: #66BFBF;
+}
+.cloud1-img{
+  width: 10%;
+  height: 10%;
+  position: relative;
+  left: 200px;
+}
+/* Ending of div1  */
+/* Starting of div2  */
+.cloud2-img{
+  width: 10%;
+  height: 20%;
+  position: absolute;
+  left: 400px;
+}
+.mountain-img{
+  width: 50%;
+  height: 50%;
+  margin-top: 80px;
+}
+.MyImg{
+  border-radius: 100px;
+  margin: 50px auto 10px auto;
+}
+.Hello{
+  margin: 20px auto;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-size: 2.5rem;
+}
+.para1{
+  color: #40514E;
+  font-weight: bold;
+  font-family: 'Merriweather', serif;
+  margin: auto 500px 70px 500px;
+}
+.hr1-img{
+  margin: 0px;
+  width: 20%;
+}
+/* Ending of div2  */
+/* Starting of div3  */
+
+.MySkills{
+  margin: auto auto 50px auto;
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+.div3{
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  line-height: 2;
+}
+.coding-img{
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin: auto 20px 20px auto;
+}
+.dd{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+.skills{
+  color: #40514E;
+  font-weight: bold;
+  font-family: 'Merriweather', serif;
+}
+/* Starting of div3.1  */
+.div3.1{
+  width: 50%;
+  margin: auto;
+
+}
+.gaming-img{
+  width: 25%;
+  height: 25%;
+  float: right;
+  margin: auto 20px 20px auto;
+}
+.gg{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  margin-right: 70%;
+}
+.gaming{
+  color: #40514E;
+  font-weight: bold;
+  font-family: 'Merriweather', serif;
+}
+/* Ending of div3.1  */
+/* Ending of div3  */
+/* starting of div4  */
+.contact{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+.link1{
+  width: 100px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  border: solid;
+  border-color: #00909e;
+  border-radius: 10px;
+  background-color: #00909e;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-bottom: 100px;
+}
+a.link1:hover {
+  background-color: #f88020;
+}
+/* Ending of div4  */
+/* starting of div5  */
+.div5{
+  background-color: #00918e;
+  margin: 0px;
+  padding:50px; 100px 100px  100px;
+}
+.links{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  font-size: 30px;
+
+  padding-left: 50px;
+  color: white;
+}
+a.links:hover{
+  color: #f88020;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
